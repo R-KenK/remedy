@@ -28,7 +28,7 @@ italicsr <- function() enclose("_")
 #' @rdname emphasize
 #' @export
 #' 
-boldr <- function() enclose("__")
+boldr <- function() enclose("**")
 
 #' @rdname emphasize
 #' @export
